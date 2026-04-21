@@ -1,2 +1,2 @@
 # ml_project
-Introducing the ML concepts.
+Introducing the ML concepts only.
